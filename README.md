@@ -25,6 +25,11 @@
   <img src="https://profile-counter.glitch.me/osama-belal/count.svg" alt="Osama's GitHub stats" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/osama-belal/osama-belal/blob/output/github-contribution-grid-snake.gif" alt="Osama's GitHub stats" />
+</p>
+
+
 ## Languages practised
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
