@@ -7,7 +7,7 @@
 
 ## Here's my recent stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osama-belal&include_all_commits=true&hide=prs&show_icons=true&bg_color=30,eeaeca,94bbe9&icon_color=9F609C&title_color=9F609C&text_color=333" alt="Osama's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=osama-belal&include_all_commits=true&count_private=true&hide=prs&show_icons=true&bg_color=30,eeaeca,94bbe9&icon_color=9F609C&title_color=9F609C&text_color=333" alt="Osama's GitHub stats" />
 </p>
 
 <p align="center">
