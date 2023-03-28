@@ -1,17 +1,15 @@
-
-## Hi there, I'm Osama Belal 👋
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Osama%20Belal&fontSize=60&animation=fadeIn" alt="Osama's GitHub stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&weight=700&size=58&pause=1000&color=9FEBEB&background=F0C38E00&center=true&vCenter=true&width=950&height=130&lines=Hi+there%2C+I'm+osama+belal"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&size=40&duration=8000&pause=1000&color=7FE4EE&center=true&vCenter=true&width=960&lines=coder+enthusiast,+and+a+computer+engineering+student"/>
+<!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Osama%20Belal&fontSize=60&animation=fadeIn"/> -->
 </p>
 
 ## Here's my recent stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osama-belal&include_all_commits=true&count_private=true&hide=prs&show_icons=true&bg_color=30,eeaeca,94bbe9&icon_color=9F609C&title_color=9F609C&text_color=333" alt="Osama's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osama-belal&layout=compact&bg_color=30,eeaeca,94bbe9&icon_color=9F609C&title_color=9F609C&text_color=333&card_width=445px" alt="Osama's GitHub stats" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=osama-belal&theme=ayu-mirage&hide_border=true&border_radius=15&ring=FA8B00&fire=FA8B00"/>
+  
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=osama-belal&include_all_commits=true&count_private=true&show_icons=true&bg_color=30,eeaeca,94bbe9&icon_color=9F609C&title_color=9F609C&text_color=333" alt="Osama's GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osama-belal&layout=compact&langs_count=20&bg_color=30,eeaeca,94bbe9&icon_color=9F609C&title_color=9F609C&text_color=333&card_width=445px" alt="Osama's GitHub stats" />
 </p>
 
 <!-- <p align="center">
@@ -22,11 +20,11 @@
  -->
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/osama-belal/count.svg" alt="Osama's GitHub stats" />
+  <img src="https://github.com/osama-belal/osama-belal/blob/output/github-contribution-grid-snake.gif" alt="Osama's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/osama-belal/osama-belal/blob/output/github-contribution-grid-snake.gif" alt="Osama's GitHub stats" />
+  <img src="https://profile-counter.glitch.me/osama-belal/count.svg" alt="Osama's GitHub stats" />
 </p>
 
 
