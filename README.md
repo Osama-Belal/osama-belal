@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat+Alternates&weight=700&size=58&pause=1000&color=9FEBEB&background=F0C38E00&center=true&vCenter=true&width=950&height=130&lines=Hi+there%2C+I'm+osama+belal"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&size=40&duration=8000&pause=1000&color=7FE4EE&center=true&vCenter=true&width=960&lines=coder+enthusiast,+and+a+computer+engineering+student"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&size=40&duration=8000&pause=1000&color=7FE4EE&center=true&vCenter=true&width=960&lines=coding+enthusiast,+and+a+computer+engineering+student"/>
 <!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Osama%20Belal&fontSize=60&animation=fadeIn"/> -->
 </p>
 
