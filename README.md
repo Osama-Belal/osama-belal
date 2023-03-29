@@ -6,7 +6,7 @@
 
 ## Here's my recent stats
 <p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=osama-belal&theme=ayu-mirage&hide_border=true&border_radius=15&ring=FA8B00&fire=FA8B00"/>
+  <img width="80%" src="https://streak-stats.demolab.com?user=osama-belal&theme=ayu-mirage&hide_border=true&border_radius=15&ring=FA8B00&fire=FA8B0"/>
   
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=osama-belal&include_all_commits=true&count_private=true&show_icons=true&bg_color=30,eeaeca,94bbe9&icon_color=9F609C&title_color=9F609C&text_color=333" alt="Osama's GitHub stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osama-belal&layout=compact&langs_count=20&bg_color=30,eeaeca,94bbe9&icon_color=9F609C&title_color=9F609C&text_color=333&card_width=445px" alt="Osama's GitHub stats" />
