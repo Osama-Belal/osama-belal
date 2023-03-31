@@ -46,7 +46,7 @@
 
 ## 🌍 Connect with me
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/osama-belal)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ososEbelal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/osama-belal/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-FF8C00?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/osamaBelal)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23F89F1B?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/obelal/)
